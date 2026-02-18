@@ -1,4 +1,4 @@
-# GCC-Shortcuts
+# GAPS - GCC Automated Processing Suite
 Some simple and stupid GCC Compiler shortcuts to not make your terminal (and experience) messy
 
 ## Usage
